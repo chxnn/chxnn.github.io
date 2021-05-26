@@ -1,4 +1,16 @@
 body {
     background-color: blanchedalmond;
-    color: cornsilk;
+    color:crimson
+}
+
+    .profile-image {
+        width: 200px;
+        height: auto;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        border: 3px;
+        border-radius: 50px;
+
+    }
 }
