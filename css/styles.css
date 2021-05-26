@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(124, 204, 131)173);
+    background-color:pink;
     colour: #FFF;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Mountains of Christmas', cursive;
 }
 
     .profile-image {
@@ -12,6 +12,5 @@ body {
         right: 10px;
         border: 3px solid cornsilk;
         border-radius: 100px;
-
     }
 }
